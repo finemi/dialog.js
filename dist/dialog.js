@@ -376,7 +376,6 @@ function dialog(params){
 				}
 			}
 		});
-		
 	}
 	/* 载入 end */
 }
